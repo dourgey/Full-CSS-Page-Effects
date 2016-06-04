@@ -1,7 +1,7 @@
-#A full css page effect.
+#A magical full css page effect.
 ***
 >Study from [ShadowPower](https://github.com/ShadowPower)
 
 
 
-###Create on February,2016
+Create on February,2016
